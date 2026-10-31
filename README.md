@@ -24,13 +24,12 @@ Machine Learning: Statistics and scikit-learn (upcoming)
 
 Python practice, programming exercises, and small projects.
 
-Projects will be added as they are organized.
 
 02 — Data Analytics
 
 Online Retail Sales Analytics
 
-Analyzed over 540,000 retail transactions using Python and Pandas, exploring revenue trends, product performance, cancellations, and data quality.## Hi there 👋
+Analyzed over 540,000 retail transactions using Python and Pandas, exploring revenue trends, product performance, cancellations, and data quality.
 
 <!--
 **Darkarmys/Darkarmys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
